@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# .NET build
+**/bin/
+**/obj/
+
+# Old Git backup
+.git-backup/
+**/.git-backup/
+
+# Local settings and secrets
+**/appsettings.Development.json
+**/appsettings.Local.json
+.env
+.env.*
+
+# NuGet
+*.nupkg
+
+# Logs
+*.log
