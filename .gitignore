@@ -22,3 +22,5 @@
 
 # Logs
 *.log
+# Uploaded music files
+MusicPortal/wwwroot/data/
